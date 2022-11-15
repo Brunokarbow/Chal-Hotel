@@ -11,4 +11,5 @@ Está aqui mais um projeto que desenvolvi em meu curso que estou aprendendo na <
 
 
 <h3>✔ Preview da Página </h3>
+
 ![Screenshot_1](https://user-images.githubusercontent.com/96805693/201965321-bc2b6ae0-2d19-43bc-b778-6eeb36d31dc1.png)
